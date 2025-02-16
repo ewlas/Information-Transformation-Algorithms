@@ -1,0 +1,1 @@
+How to use - python coder.py encode|decode input_file output_file
